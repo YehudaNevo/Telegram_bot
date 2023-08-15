@@ -137,7 +137,7 @@ dmypy.json
 *.swn
 *.bak
 *.tmp
-
+private/
 # OS specific
 .DS_Store
 .Thumbs.db
